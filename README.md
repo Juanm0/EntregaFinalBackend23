@@ -31,7 +31,7 @@ Para poder ejecutarlo en tu ordenador, debes de tener [Nodejs](https://nodejs.or
 Sigue los siguientes pasos:
 
 ```bash
-git clone https://github.com/martinfyic/proyecto-nodejs-ecommerce.git
+git clone https://github.com/Juanm0/EntregaFinalBackend1
 
 cd proyecto-nodejs-ecommerce
 

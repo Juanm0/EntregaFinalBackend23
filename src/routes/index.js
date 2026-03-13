@@ -1,0 +1,10 @@
+export { authRouter } from './authRoutes.js';
+export { cartRouter } from './cartRouter.js';
+export { categoryRouter } from './categoryRoutes.js';
+export { errorRouter } from './errorRouter.js';
+export { orderRouter } from './orderRoutes.js';
+export { productRouter } from './productRoutes.js';
+export { productViewsRouter } from './productsViewsRouter.js';
+export { searchRouter } from './searchRoutes.js';
+export { uploadsRouter } from './uploadsRoutes.js';
+export { userRouter } from './userRouter.js';
